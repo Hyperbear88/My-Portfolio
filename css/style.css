@@ -1,0 +1,40 @@
+body {
+background-color: #81D2FF;
+}
+nav {
+background-color: #5DFF2A;
+}
+
+
+ul {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+ 
+}
+a {
+color: black;
+text-decoration: none;
+}
+li {
+  font-size: 30px;
+  border-style: solid;
+  list-style-type: none;
+  font-family: 'Barrio', cursive;
+  }
+.initaldiv {
+	font-size: 35px;
+	display: flex;
+	justify-content : center;
+	text-decoration: underline;
+	background-color: #FF421D;
+	font-family: 'Alegreya', serif;
+}
+.whoami {
+ font-size: 20px;
+
+}
+.title {
+ font-size: 30px;
+ text-decoration: underline;
+}
