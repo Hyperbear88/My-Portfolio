@@ -20,8 +20,7 @@ li {
   font-size: 30px;
   border-style: solid;
   list-style-type: none;
-  font-family: 'Barrio', cursive;
-  }
+   }
 .initaldiv {
 	font-size: 35px;
 	display: flex;
@@ -38,8 +37,11 @@ li {
  font-size: 30px;
  text-decoration: underline;
 }
-img {
-height: 500px;
-display: flex;
-justify-content: center;
+.images1 {
+  display: flex;
+  order: 1;
+}
+.screenshots {
+  display: flex;
+  justify-content: center;
 }
