@@ -5,6 +5,9 @@ nav {
 background-color: #5DFF2A;
 }
 
+img {
+  max-width: 100%;
+}
 
 ul {
   display: flex;
@@ -36,12 +39,4 @@ li {
 .title {
  font-size: 30px;
  text-decoration: underline;
-}
-.images1 {
-  display: flex;
-  order: 1;
-}
-.screenshots {
-  display: flex;
-  justify-content: center;
 }
