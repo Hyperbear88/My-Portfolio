@@ -5,6 +5,9 @@ nav {
 background-color: #5DFF2A;
 }
 
+img {
+  max-width: 100%;
+}
 
 ul {
   display: flex;
@@ -20,8 +23,7 @@ li {
   font-size: 30px;
   border-style: solid;
   list-style-type: none;
-  font-family: 'Barrio', cursive;
-  }
+   }
 .initaldiv {
 	font-size: 35px;
 	display: flex;
@@ -31,7 +33,7 @@ li {
 	font-family: 'Alegreya', serif;
 }
 .whoami {
- font-size: 20px;
+ font-size: 25px;
 
 }
 .title {
